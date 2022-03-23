@@ -4,7 +4,7 @@
 
 Submitted by: **Muhtasim Mushfiq**
 
-Time spent: **6** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
