@@ -6,7 +6,7 @@ Submitted by: **Muhtasim Mushfiq**
 
 Time spent: **10** hours spent in total
 
-Link to project: https://chemical-incredible-change.glitch.me/
+Link to project: https://glitch.com/edit/#!/chemical-incredible-change?path=README.md%3A1%3A0
 
 ## Required Functionality
 
