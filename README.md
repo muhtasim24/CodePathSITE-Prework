@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- An alert is popped up on the screen when the user makes a mistake, and it tells them how many strikes they have left till they lose. 
+- An alert is popped up on the screen when the user makes a mistake, and it tells them that they have made a mistake and also how many strikes they have left till they lose. 
 
 ## Video Walkthrough (GIF)
 
