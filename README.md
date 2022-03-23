@@ -40,7 +40,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://www.kapwing.com/videos/623ba00b49815200aa1ca860
+
+2. Mistake Alert: http://g.recordit.co/y3WUKvWE40.gif
+3. Gif with audio: https://www.kapwing.com/videos/623ba00b49815200aa1ca860
 ![](gif1-link-here)
 ![](gif2-link-here)
 ![](gif3-link-here)
