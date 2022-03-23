@@ -6,7 +6,7 @@ Submitted by: **Muhtasim Mushfiq**
 
 Time spent: **10** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/chemical-incredible-change?path=README.md%3A1%3A0
+Link to project: (insert your link here, should start with https://glitch.com...)
 
 ## Required Functionality
 
@@ -39,11 +39,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here: 
-1. http://g.recordit.co/urj5dTE3wf.gif
-
-2. Shows Mistakes and Mistake Alerts:
-    http://g.recordit.co/y3WUKvWE40.gif
+If you recorded multiple GIFs for all the implemented features, you can add them here:
+![](gif1-link-here)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
