@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- An alert is popped up on the screen when the user makes a mistake, and it tells them how many strikes they have left till they lose. 
 
 ## Video Walkthrough (GIF)
 
