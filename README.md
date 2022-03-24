@@ -68,7 +68,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://buffalo.zoom.us/rec/share/NidzBW4GDpFgDcokCYWtVZGt7il6p7OYkbd8hvJ1Wsnit_DV1PMGYrngt_igDttr.mOMv2ah923P_gmF9)
 
 
 ## License
