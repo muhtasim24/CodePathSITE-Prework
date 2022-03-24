@@ -44,7 +44,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](http://g.recordit.co/ANuQqvzHsn.gif)
 
 2. Mistake Alert shown and Game Over on Third Strike: 
-![](http://g.recordit.co/y3WUKvWE40.gif)
+![](http://g.recordit.co/SWMTTxcyhD.gif)
 
 3. Differnet frequency sound of each button with audio: https://www.kapwing.com/videos/623ba00b49815200aa1ca860
 
