@@ -4,9 +4,9 @@
 
 Submitted by: **Muhtasim Mushfiq**
 
-Time spent: **10** hours spent in total
+Time spent: **13** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/~codepathsite-memorygame
 
 ## Required Functionality
 
@@ -40,10 +40,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+1. Full Game Won:
+![](http://g.recordit.co/ANuQqvzHsn.gif)
+    Part 2 of Full Game Won: (Note: near the end some buttons are not captured by the gif because of the speed)
+![](http://g.recordit.co/x51nrWL2UV.gif)
+
+2. Mistake Alert shown and Game Over on Third Strike: 
+![](http://g.recordit.co/SWMTTxcyhD.gif)
+
+3. Different frequency sound of each button with audio: https://www.kapwing.com/videos/623ba00b49815200aa1ca860
+![](https://media.giphy.com/media/egiFDhrOU6qKUues3N/giphy.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -62,7 +68,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://buffalo.zoom.us/rec/share/NidzBW4GDpFgDcokCYWtVZGt7il6p7OYkbd8hvJ1Wsnit_DV1PMGYrngt_igDttr.mOMv2ah923P_gmF9)
 
 
 ## License
