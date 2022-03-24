@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 2. Mistake Alert shown and Game Over on Third Strike: 
 ![](http://g.recordit.co/SWMTTxcyhD.gif)
 
-3. Differnet frequency sound of each button with audio: https://www.kapwing.com/videos/623ba00b49815200aa1ca860
+3. Different frequency sound of each button with audio: https://www.kapwing.com/videos/623ba00b49815200aa1ca860
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
