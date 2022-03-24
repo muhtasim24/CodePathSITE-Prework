@@ -47,7 +47,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](http://g.recordit.co/y3WUKvWE40.gif)
 4. Gif with audio: https://media.giphy.com/media/egiFDhrOU6qKUues3N/giphy.gif
 ![](https://www.kapwing.com/videos/623ba00b49815200aa1ca860)
-![](gif4-link-here)
+![](https://media.giphy.com/media/egiFDhrOU6qKUues3N/giphy.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
