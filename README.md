@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 2. Mistake Alert shown and Game Over on Third Strike: 
 ![](http://g.recordit.co/y3WUKvWE40.gif)
 4. Gif with audio: https://media.giphy.com/media/egiFDhrOU6qKUues3N/giphy.gif
-![](gif3-link-here)
+![](https://www.kapwing.com/videos/623ba00b49815200aa1ca860)
 ![](gif4-link-here)
 
 ## Reflection Questions
