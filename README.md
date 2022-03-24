@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 1. Full Game Won:
-![](http://g.recordit.co/urj5dTE3wf.gif)
+![](http://g.recordit.co/ANuQqvzHsn.gif)
 
 2. Mistake Alert shown and Game Over on Third Strike: 
 ![](http://g.recordit.co/y3WUKvWE40.gif)
