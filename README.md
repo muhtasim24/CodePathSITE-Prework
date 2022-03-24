@@ -43,7 +43,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 1. Full Game Won: http://g.recordit.co/urj5dTE3wf.gif
 2. Mistake Alert shown and Game Over on Third Strike: http://g.recordit.co/y3WUKvWE40.gif
 3. Gif with audio: https://media.giphy.com/media/egiFDhrOU6qKUues3N/giphy.gif
-![](gif1-link-here)
+![](http://g.recordit.co/urj5dTE3wf.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
