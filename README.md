@@ -4,7 +4,7 @@
 
 Submitted by: **Muhtasim Mushfiq**
 
-Time spent: **10** hours spent in total
+Time spent: **13** hours spent in total
 
 Link to project: https://glitch.com/~codepathsite-memorygame
 
